@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Laudando"
+  given-names: "Chris"
+- family-names: "Hari"
+  given-names: "Jagennath"
+  orcid: "https://orcid.org/0009-0009-5915-0250"
+- family-names: "Benjegerdes"
+  given-names: "Troy"
+title: "L&ASER Q3ube"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-04-11
+url: "https://github.com/Laudando-Associates-LLC/LASER"
+url: "https://github.com/tmagik/LASER"
+url: "http://http://7el.us/q3/patent/q3ube/"
